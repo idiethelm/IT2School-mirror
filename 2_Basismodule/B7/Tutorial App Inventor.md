@@ -1,0 +1,3 @@
+**Hinweis:** Im Material findet sich an dieser Stelle "Tutorial App Inventor.mp4", ein knapp sechsminütiges Video, das durch die Oberfläche des AppInventor führt. Die Videodatei ist zu groß für dieses Repository, findet sich aber noch in [diesem Owncloud-Verzeichnis](https://cs.uol.de/s/CdkRCgRtgB8YZ3F?path=%2F2_Basismodule%2FB7_Meine_App).
+
+**Achtung:** Das verlinkte Verzeichnis wird seit Längerem nicht mehr gepflegt. Die Materialien in diesem Repository sind auf dem aktuellsten Stand.
